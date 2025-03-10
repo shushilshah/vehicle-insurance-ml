@@ -1,0 +1,2 @@
+[ $(asctime)s ] root - INFO - unsupported operand type(s) for +: 'int' and 'str'
+[ $(asctime)s ] root - ERROR - Error occured in python script: [D:\vehicle-insurance-ml\demo.py] at line number [17]: unsupported operand type(s) for +: 'int' and 'str'
